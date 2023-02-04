@@ -6,4 +6,5 @@ The addon adds a special item through which you can summon the Blood Moon by pre
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-crystal) [Modrinth](https://modrinth.com/mod/blood-crystal)
 
 #### (Only the mod code for 1.19.2 is published)
+[Issues in our discord server.](https://discord.gg/GFpmfNPPPy)
 (I don't know English well, so I used a translator. Sorry if there are mistakes.)
