@@ -1,5 +1,5 @@
 # Blood crystal
-A small addon for the [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials) mod, created in 10 minutes in MCreator for the Nihomium modpack. Which will be released sometime in late 2023 (hopefully).
+A small addon for the [Enhanced Celestials](https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials) mod, created in 10 minutes in MCreator for the Nihonium modpack. Which will be released sometime in late 2023 (hopefully).
 The addon adds a special item through which you can summon the Blood Moon by pressing RMB on any creature. **The item drops from a zombie with a 10% chance.**
 
 ![](https://cdn.discordapp.com/attachments/1014200166473023540/1063488419130515559/Clipchamp.gif)
