@@ -1,3 +1,9 @@
 {
-  "item.blood_crystal.blood_crystal": "Кровавый кристалл"
+  "item.blood_crystal.unstable_blood_crystal": "Нестабильный кровавый кристалл",
+  "item.blood_crystal.unstable_harvest_crystal": "Нестабильный кристалл урожая",
+  "item.blood_crystal.lucky_crystal": "Кристалл удачи",
+  "item.blood_crystal.unstable_lucky_crystal": "Нестабильный кристалл удачи",
+  "item.blood_crystal.harvest_crystal": "Кристалл урожая",
+  "item.blood_crystal.blood_crystal": "Кровавый кристалл",
+  "itemGroup.tabcrystals_mod_tab": "Blood crystal mod"
 }

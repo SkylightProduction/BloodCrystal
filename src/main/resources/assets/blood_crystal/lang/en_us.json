@@ -1,3 +1,9 @@
 {
-  "item.blood_crystal.blood_crystal": "Blood crystal"
+  "item.blood_crystal.unstable_blood_crystal": "Unstable blood crystal",
+  "item.blood_crystal.unstable_harvest_crystal": "Unstable harvest crystal",
+  "item.blood_crystal.lucky_crystal": "Lucky сrystal",
+  "item.blood_crystal.unstable_lucky_crystal": "Unstable lucky crystal",
+  "item.blood_crystal.harvest_crystal": "Havest сrystal",
+  "item.blood_crystal.blood_crystal": "Blood crystal",
+  "itemGroup.tabcrystals_mod_tab": "Blood crystal mod"
 }

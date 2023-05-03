@@ -9,12 +9,12 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.InteractionResultHolder;
 import net.minecraft.world.InteractionHand;
 
-import net.mcreator.bloodcrystal.procedures.BloodCrystalProcedureProcedure;
+import net.mcreator.bloodcrystal.procedures.UnstableLuckyCrystalProcedureProcedure;
 import net.mcreator.bloodcrystal.init.BloodCrystalModTabs;
 
-public class BloodCrystalItem extends Item {
-	public BloodCrystalItem() {
-		super(new Item.Properties().tab(BloodCrystalModTabs.TAB_CRYSTALS_MOD_TAB).stacksTo(16).rarity(Rarity.RARE));
+public class UnstableLuckyCrystalItem extends Item {
+	public UnstableLuckyCrystalItem() {
+		super(new Item.Properties().tab(BloodCrystalModTabs.TAB_CRYSTALS_MOD_TAB).stacksTo(1).rarity(Rarity.EPIC));
 	}
 
 	@Override
@@ -25,7 +25,7 @@ public class BloodCrystalItem extends Item {
 		double y = entity.getY();
 		double z = entity.getZ();
 
-		BloodCrystalProcedureProcedure.execute(world, x, y, z, entity);
+		UnstableLuckyCrystalProcedureProcedure.execute(world, x, y, z, entity);
 		return ar;
 	}
 }

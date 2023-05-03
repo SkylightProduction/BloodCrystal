@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "blood_crystal:harvest_crystal"
+    }
+  },
+  "result": {
+    "item": "blood_crystal:unstable_harvest_crystal",
+    "count": 1
+  }
+}
